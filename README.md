@@ -10,7 +10,7 @@ I felt that the strongest point in the projects regarding the DriverPass system 
 
 ## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-The use-case diagram would likely be the document I would want to revise if I were to go back. The diagram captures much of the functionality the system might have but I felt that perhaps the functionality of the customer could be more explicit. The customer would choose which packages to purchase that would then authorize them for the appropriate functionality. This is implied in the use-case diagram but I feel it may read clearer if I were to have the customer first have a use-case of purchasing a package before they can take a test or schedule an appointment.
+The use-case diagram would likely be the document I would want to revise if I were to go back. The diagram captures much of the functionality the system might have but I felt that perhaps the functionality of the customer could be more explicit. In the requirements document, the customer would need to choose which packages to purchase that would then authorize them for the appropriate functionality. This is implied in the use-case diagram but I feel it may read clearer if I were to have the customer first have a use-case of purchasing a package before they can take a test or schedule an appointment.
 
 ## How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
