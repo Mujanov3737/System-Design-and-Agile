@@ -6,7 +6,7 @@ The DriverPass project centered around a client who was a driving education faci
 
 ## What did you do particularly well?
 
-I felt that the strongest point in the projects regarding the DriverPass system was how well I had accurately captured the requirements of the client and establishing the system requirements needed to fulfill them. Examining the interview transcript involving the conversation the requirements of the client multiple times allowed me to pick out the details the client had wanted in the system and led me to create a strong requirements list to take into the next phases, such as developing use cases for what each actor might do or what the system may need to fulfill these requirements.
+I felt that the strongest point in the projects regarding the DriverPass system was how well I had accurately captured the requirements of the client and establishing the system requirements needed to fulfill them. Examining the interview transcript multiple times allowed me to pick out the details the client had wanted in the system and led me to create a strong requirements list to take into the next phases, such as developing use cases for what each actor might do or what the system may need to fulfill these requirements.
 
 ## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
